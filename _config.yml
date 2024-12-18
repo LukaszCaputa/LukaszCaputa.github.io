@@ -1,11 +1,11 @@
-title: Lukasz Dev Blog
+title: Lukasz Caputa Tech Blog
 email: lukasz@lukaszcaputa.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Lukasz DEV blog
+  Lukasz Caputa Tech Blog
 baseurl: ""
 url: "https://LukaszCaputa.github.io"
 github_username:  LukaszCaputa
-linkedin_username: lukasz-caputa
+linkedin_username: Lukasz-Caputa
 
 # Build settings
 theme: minima
